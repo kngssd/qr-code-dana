@@ -16,3 +16,9 @@ textarea,
 select {
     font: inherit;
 }
+
+.style {
+    justify-content: center;
+    text-align: center;
+    background-color: bisque;
+}
